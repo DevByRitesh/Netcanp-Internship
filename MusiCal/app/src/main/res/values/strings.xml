@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusiCal</string>
+    <string name="back_to_home_screen">BACK TO HOME SCREEN</string>
+    <string name="click_here_to_login">CLICK HERE TO LOGIN</string>
+    <string name="enter_password">ENTER PASSWORD</string>
+    <string name="enter_email_address">ENTER EMAIL ADDRESS</string>
+</resources>

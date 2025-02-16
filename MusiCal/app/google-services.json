@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791173628550",
+    "project_id": "musi-cal-1c61c",
+    "storage_bucket": "musi-cal-1c61c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791173628550:android:d2ba2b47b56d15ae438707",
+        "android_client_info": {
+          "package_name": "com.example.musical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_23W0IwvLmqDMIIrDrO-4VEwu0XbMek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
